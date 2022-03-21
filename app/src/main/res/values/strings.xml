@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bitmap Pass</string>
+    <string name="encode">ENCODE</string>
+    <string name="decode">DECODE</string>
+</resources>
